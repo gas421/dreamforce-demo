@@ -15,8 +15,8 @@
                 // Alert the user with the value returned 
                 // from the server
                 var candidateGradeInfo = response.getReturnValue();
-                //cmp.set("v.temperature", candidateGradeInfo.temperature);
-                //cmp.set("v.commission", candidateGradeInfo.commission);
+                cmp.set("v.temperature", candidateGradeInfo.temperature);
+                cmp.set("v.commission", candidateGradeInfo.commission);
 
                 if (cmp.get("v.temperature") && cmp.get("v.commission")) {
                     cmp.set("v.displayGrade", true);
