@@ -1,0 +1,577 @@
+[
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1536742210881,
+            "changeTime": 1537448704261,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1536742210881,
+            "changeTime": 1537448704261,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1537457575232,
+            "changeTime": 1537457575232,
+            "contentHash": "64a9ae9ef5aa17ad48af505524877a22fb593ee8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1537454569104,
+            "changeTime": 1537454569104,
+            "contentHash": "dd545a74eabff39713eef6a819cf24c229e0dad4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1537452625060,
+            "changeTime": 1537452625060,
+            "contentHash": "c491ec067295a80df0634d3cbc320782c8e4b948",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.auradoc",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1537452625059,
+            "changeTime": 1537452625059,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.cmp",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.cmp",
+            "isDirectory": false,
+            "size": 1149,
+            "modifiedTime": 1537458583155,
+            "changeTime": 1537458583155,
+            "contentHash": "19db495cc470dcdf6d15f19c742598d4675fe870",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1537452625057,
+            "changeTime": 1537452625057,
+            "contentHash": "dbd82bc5c20a828e9b9357687c7d70d558fad972",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.css",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1537452625058,
+            "changeTime": 1537452625058,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.design",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1537452625060,
+            "changeTime": 1537452625060,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.svg",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGrade.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1537452625059,
+            "changeTime": 1537452625059,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGradeController.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGradeController.js",
+            "isDirectory": false,
+            "size": 2087,
+            "modifiedTime": 1537458450725,
+            "changeTime": 1537458450725,
+            "contentHash": "4bed1c68505f41d600d8042ce98bbbe8b22bb09e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGradeHelper.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGradeHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1537452625057,
+            "changeTime": 1537452625057,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGradeRenderer.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/aura/CandidateGrade/CandidateGradeRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1537452625058,
+            "changeTime": 1537452625058,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1537454572474,
+            "changeTime": 1537454572474,
+            "contentHash": "2f36835e2861ee9b8d10681ddfb9c5f2f25d0d3f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/classes/CandidateGradeController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/classes/CandidateGradeController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2076,
+            "modifiedTime": 1537458632595,
+            "changeTime": 1537458632595,
+            "isWorkspace": false,
+            "contentHash": "8db2f91673cb4d30dd63a2ce40aa8c09a5ad4d2d"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/classes/CandidateGradeController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/classes/CandidateGradeController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1537452661226,
+            "changeTime": 1537452661226,
+            "contentHash": "f58322dcb38bd4d55b3c42ab46b11f17832b9e27",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1537452821976,
+            "changeTime": 1537452821976,
+            "contentHash": "6560d7e49c922142aa9ef76990a258654976be7d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "size": 5119,
+            "modifiedTime": 1537454958687,
+            "changeTime": 1537454958687,
+            "contentHash": "771b062e2a3f690dd566923eac8021d9d17da049",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact/fields/NextAvailableDate__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact/fields/NextAvailableDate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1537454958688,
+            "changeTime": 1537454958688,
+            "contentHash": "7e8bf2189f765f8cf60f06a5aed6524fa34691c6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact/fields/Salary__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact/fields/Salary__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1537454958688,
+            "changeTime": 1537454958688,
+            "contentHash": "68b5ebe5972b8a5ceb4f20c539c5a9997ce03bf2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9752,
+            "modifiedTime": 1537454958694,
+            "changeTime": 1537454958694,
+            "contentHash": "2d02feff69e27f43d1c1a74e3291f2bf94326f98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9461,
+            "modifiedTime": 1537454958701,
+            "changeTime": 1537454958701,
+            "contentHash": "085a51130dd33b996b295cd1b4b6e326b27db5fb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9752,
+            "modifiedTime": 1537454958706,
+            "changeTime": 1537454958706,
+            "contentHash": "c76e071e98bf99e06ae7dfae401ed33d7c681902",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9776,
+            "modifiedTime": 1537454958710,
+            "changeTime": 1537454958710,
+            "contentHash": "fd744297f055860bef88117dba22f2b6130ce84a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6108,
+            "modifiedTime": 1537454958715,
+            "changeTime": 1537454958715,
+            "contentHash": "9dbcacff10ec0b574dfd7e7afcf083746b2d92b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5479,
+            "modifiedTime": 1537457575188,
+            "changeTime": 1537457575188,
+            "contentHash": "9c7badfca317e405bc5feee3f9cc72fa8ea0f07d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18543,
+            "modifiedTime": 1537457575214,
+            "changeTime": 1537457575214,
+            "contentHash": "b7df0edc387819767ad8f240d7aec27a8cb64b2c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5139,
+            "modifiedTime": 1537457575224,
+            "changeTime": 1537457575224,
+            "contentHash": "f108fe9e26a0ca64351d9f1996eb1295ea189186",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5143,
+            "modifiedTime": 1537457575231,
+            "changeTime": 1537457575231,
+            "contentHash": "c1a12ff83d613e19212270181c2991778a43844b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1537454958688,
+            "changeTime": 1537454958688,
+            "contentHash": "47adfd5ffb5b99db19f7f5b167792192778dbb7e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1537457575172,
+            "changeTime": 1537457575172,
+            "contentHash": "8f0478232c10eb75b5950dd70cafa16d443fb8dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1537454958688,
+            "changeTime": 1537454958688,
+            "contentHash": "91300a3019cd4be48155de6e3abd4df116d614d3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1537457575177,
+            "changeTime": 1537457575177,
+            "contentHash": "45e0f8066bd52e90950ae93d2f7eec4e844fb838",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1537454958715,
+            "changeTime": 1537454958715,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1537454958745,
+            "changeTime": 1537454958745,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/User/fields/Seniority__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/User/fields/Seniority__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 977,
+            "modifiedTime": 1537457575174,
+            "changeTime": 1537457575174,
+            "contentHash": "8d33750c3a26ae80ad92169d6d8a03f76e57f882",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/User-User Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/layouts/User-User Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1546,
+            "modifiedTime": 1537457575177,
+            "changeTime": 1537457575177,
+            "contentHash": "606f7fda23e398f23cba6c01bcfa93d3c0034b0f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "size": 2515,
+            "modifiedTime": 1537457575233,
+            "changeTime": 1537457575233,
+            "contentHash": "a39c5ffdb3c855e2da94059adea8288f484f1db3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/User/fields",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/User/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1537457575174,
+            "changeTime": 1537457575174,
+            "contentHash": "3f7ad61f2e8f144999f5f071447bca19133ad86c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/User",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/objects/User",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1537457575173,
+            "changeTime": 1537457575173,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/dreamforce-demo/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1537457575233,
+            "changeTime": 1537457575233,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
